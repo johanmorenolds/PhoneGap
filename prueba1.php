@@ -1,4 +1,4 @@
 <?php
 $saludo ="Hola Kerry";
-echo $saludo;
+echo "<div style=' background-color:red'>".$saludo."</div>";
 ?>
